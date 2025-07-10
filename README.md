@@ -7,7 +7,7 @@ A simple Python tool to track IP address location information using ipinfo.io. M
 
 ## Video Showcasing the tool
 
-(youtube link)
+[(youtube link)](https://www.youtube.com/@dzumq)
 
 Subscribe if you want to follow me on my journey and learn along with me :)
 
@@ -28,7 +28,7 @@ Subscribe if you want to follow me on my journey and learn along with me :)
 **Clone the repository or download the script**:
 
 ```bash
-git clone https://github.com/yourusername/ultimate-ip-locator.git
+git clone https://github.com/dzumq/ultimate-ip-locator.git
 cd ultimate-ip-locator
 pip install -r requirements.txt
 
