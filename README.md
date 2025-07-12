@@ -7,7 +7,9 @@ A simple Python tool to track IP address location information using ipinfo.io. M
 
 ## Video Showcasing the tool
 
-[(youtube link)](https://www.youtube.com/@dzumq)
+[![Watch the video](https://img.youtube.com/vi/hvCGNbbX4c0/maxresdefault.jpg)](https://youtu.be/hvCGNbbX4c0)
+
+### [WATCH THE VIDEO SHOWCASE](https://youtu.be/hvCGNbbX4c0)
 
 Subscribe if you want to follow me on my journey and learn along with me :)
 
